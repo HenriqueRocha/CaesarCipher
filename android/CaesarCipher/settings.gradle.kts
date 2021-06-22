@@ -1,2 +1,2 @@
 rootProject.name = "Caesar Cipher"
-include ':app'
+include(":app")
